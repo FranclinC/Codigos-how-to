@@ -1,1 +1,11 @@
 #Segue abaixo os links, de refêrencia para um melhor entendimento.
+
+MKMapView - https://developer.apple.com/library/ios/documentation/MapKit/Reference/MKMapView_Class/
+CLGeocoder - https://developer.apple.com/library/ios/documentation/CoreLocation/Reference/CLGeocoder_class/
+MKPointAnnotation - https://developer.apple.com/library/ios/documentation/MapKit/Reference/MKPointAnnotation_class/
+UISearchBar - https://developer.apple.com/library/ios/documentation/UIKit/Reference/UISearchBar_Class/
+CLPlacmark - https://developer.apple.com/library/ios/documentation/CoreLocation/Reference/CLPlacemark_class/
+MKCoordinateRegion - https://developer.apple.com/library/mac/documentation/MapKit/Reference/MapKitDataTypesReference/#//apple_ref/c/tdef/MKCoordinateRegion
+MKCoordinateSpan - https://developer.apple.com/library/mac/documentation/MapKit/Reference/MapKitDataTypesReference/#//apple_ref/c/tdef/MKCoordinateSpan
+CLLocationCoordinate2d - https://developer.apple.com/library/mac/documentation/CoreLocation/Reference/CoreLocationDataTypesRef/#//apple_ref/c/tdef/CLLocationCoordinate2D
+
